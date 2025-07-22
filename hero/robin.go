@@ -6,4 +6,5 @@ import (
 
 func ShowRobinName() {
 	fmt.Println("Dick Grayson")
+	fmt.Println("Jason Todd")
 }
